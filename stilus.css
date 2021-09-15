@@ -1,0 +1,14 @@
+.kulso {
+border: 1px solid blue;
+width: 100%;
+}
+
+.belso { border: 1 px dashed red;
+width: 45%;
+display: block;
+}
+
+
+.lebego {
+    float: left;
+}
